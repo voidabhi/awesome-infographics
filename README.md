@@ -1,4 +1,4 @@
-awesome-infographics
+Awesome Infographics
 ====================
 
-A curated list of amazingly awesome infographics
+A curated list of amazingly awesome infographics.
